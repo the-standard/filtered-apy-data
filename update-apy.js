@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 const tokenHypervisors = [
-  "0x0000000000000000000000000000000000000000", // TBC USDs USDC
+  "0x547a116a2622876ce1c8d19d41c683c8f7bec5c0",
   "0x52ee1FFBA696c5E9b0Bc177A9f8a3098420EA691",
   "0x330DFC5Bc1a63A1dCf1cD5bc9aD3D5e5E61Bcb6C",
   "0xfA392dbefd2d5ec891eF5aEB87397A89843a8260",
