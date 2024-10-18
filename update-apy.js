@@ -27,7 +27,7 @@ const fetchData = async () => {
       const useAddress = address.toLowerCase();
       const useReturn = feeReturns?.[useAddress];
       let useFee = 0;
-      if (useReturn != null && useReturn >= 0) {
+      if (useReturn?.feeApy != null && useReturn?.feeApy >= 0) {
         useFee = Number(useReturn?.feeApy);
       }
       filteredData.data[useAddress] = { feeApy: Number(useFee) };
