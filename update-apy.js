@@ -26,8 +26,11 @@ const fetchData = async () => {
     tokenHypervisors && tokenHypervisors.length && tokenHypervisors.forEach((address) => {
       const useAddress = address.toLowerCase();
       const useReturn = feeReturns?.[useAddress];
-
-      filteredData.data[useAddress] = { feeApy: useReturn?.feeApy };
+      let useFee;
+      if (useReturn?.feeApy >= 0) {
+        useFee = useReturn?.feeApy;
+      }
+      filteredData.data[useAddress] = { feeApy: useFee };
     });
   } catch (error) {
     console.error(`Failed to fetch hypervisor data`, error);
