@@ -11,7 +11,7 @@ const tokenHypervisors = [
 ];
 
 const fetchData = async () => {
-  const filteredData = {
+  let filteredData = {
     timestamp: new Date().toISOString(),
     data: {}
   };
@@ -34,6 +34,16 @@ const fetchData = async () => {
     });
   } catch (error) {
     console.error(`Failed to fetch hypervisor data`, error);
+    console.log('Attempting to fallback to old data')
+    fetch('https://raw.githubusercontent.com/the-standard/filtered-apy-data/main/apy-data.json')
+      .then( res => res.json() )
+      .then(response => {
+        console.log('Falling back to old data')
+        filteredData = response;
+      })
+      .catch(error => {
+        console.error('Failed to fallback to old data:', error)
+      });
   }
 
   fs.writeFileSync('apy-data.json', JSON.stringify(filteredData, null, 2));
