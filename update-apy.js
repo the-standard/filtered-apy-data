@@ -27,7 +27,7 @@ const fetchData = async () => {
       const useAddress = address.toLowerCase();
 
       const useData = useResponse.find(hypervisor => (
-        hypervisor.address.toLowerCase() === useAddress;
+        hypervisor.address.toLowerCase() === useAddress
       ))
 
       let useApy = 0;
