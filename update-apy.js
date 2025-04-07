@@ -13,7 +13,7 @@ const tokenHypervisors = [
 const fetchData = async () => {
   let filteredData = {
     timestamp: new Date().toISOString(),
-    data: {}
+    data: []
   };
 
   try {
@@ -30,10 +30,7 @@ const fetchData = async () => {
         hypervisor.address.toLowerCase() === useAddress
       ))
 
-      let useApy = 0;
-      if (useData?.feeApy != null && useData?.feeApy >= 0) {
-        useApy = Number(useData?.feeApy);
-      }
+      filteredData.data.push(useData);
 
       filteredData.data[useAddress] = { feeApy: Number(useApy) };
     });
