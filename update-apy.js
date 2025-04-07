@@ -18,19 +18,24 @@ const fetchData = async () => {
 
   try {
     const response = await axios.get(
-      `https://wire2.gamma.xyz/arbitrum/hypervisors/feeReturns/daily`
+      `https://wire3.gamma.xyz/frontend/hypervisors/allDataSummary?chain=arbitrum&protocol=uniswapv3`
     );
 
-    const feeReturns = response?.data;
+    const useResponse = response?.data;
 
     tokenHypervisors && tokenHypervisors.length && tokenHypervisors.forEach((address) => {
       const useAddress = address.toLowerCase();
-      const useReturn = feeReturns?.[useAddress];
-      let useFee = 0;
-      if (useReturn?.feeApy != null && useReturn?.feeApy >= 0) {
-        useFee = Number(useReturn?.feeApy);
+
+      const useData = useResponse.find(hypervisor => (
+        hypervisor.address.toLowerCase() === hyperAddress.toLowerCase()
+      ))
+
+      let useApy = 0;
+      if (useData?.feeApy != null && useData?.feeApy >= 0) {
+        useApy = Number(useData?.feeApy);
       }
-      filteredData.data[useAddress] = { feeApy: Number(useFee) };
+
+      filteredData.data[useAddress] = { feeApy: Number(useApy) };
     });
   } catch (error) {
     console.error(`Failed to fetch hypervisor data`, error);
