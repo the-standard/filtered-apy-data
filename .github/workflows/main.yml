@@ -29,5 +29,5 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
           git add apy-data.json
-          git commit -m "Update APY data"
-          git push
+          git commit -m "Update APY data" || echo "No changes to commit"
+          git push || echo "No changes to push"
