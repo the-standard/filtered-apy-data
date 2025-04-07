@@ -31,8 +31,6 @@ const fetchData = async () => {
       ))
 
       filteredData.data.push(useData);
-
-      filteredData.data[useAddress] = { feeApy: Number(useApy) };
     });
   } catch (error) {
     console.error(`Failed to fetch hypervisor data`, error);
