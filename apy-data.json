@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-20T15:03:09.795Z",
+  "timestamp": "2025-04-20T16:03:48.149Z",
   "data": [
     {
       "chainId": 42161,
@@ -27,14 +27,14 @@
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x52ee1ffba696c5e9b0bc177a9f8a3098420ea691",
-      "tvlUSD": "23722.633837961148",
-      "feeApr": 0.0878880189689179,
+      "tvlUSD": "23348.44418677156",
+      "feeApr": 0.050490211345211825,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-04-20T15:01:56.530000",
-      "token0TvlUsd": 7735.807939556813,
-      "token1TvlUsd": 15986.825898404335,
-      "totalSupply": "4249114857349183287"
+      "lastUpdated": "2025-04-20T16:02:10.640000",
+      "token0TvlUsd": 10644.530671357363,
+      "token1TvlUsd": 12703.913515414199,
+      "totalSupply": "3500067575353111555"
     },
     {
       "chainId": 42161,
@@ -53,27 +53,27 @@
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0xfa392dbefd2d5ec891ef5aeb87397a89843a8260",
-      "tvlUSD": "12543.602421867718",
-      "feeApr": 0.17286649563833673,
+      "tvlUSD": "7346.942895175306",
+      "feeApr": 0.16656995268849267,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-04-20T15:01:56.531000",
-      "token0TvlUsd": 883.8194923448981,
-      "token1TvlUsd": 11659.78292952282,
-      "totalSupply": "438278321670595465421"
+      "lastUpdated": "2025-04-20T16:02:10.641000",
+      "token0TvlUsd": 117.77118950111249,
+      "token1TvlUsd": 7229.171705674194,
+      "totalSupply": "248502091301525836700"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0xf08bdbc590c59cb7b27a8d224e419ef058952b5f",
-      "tvlUSD": "149350.42826504307",
-      "feeApr": 3.5389065171162315,
+      "tvlUSD": "187037.64639176236",
+      "feeApr": 4.995419540438281,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-04-20T15:01:56.531000",
-      "token0TvlUsd": 71107.94057114082,
-      "token1TvlUsd": 78242.48769390225,
-      "totalSupply": "3586628849789544188831"
+      "lastUpdated": "2025-04-20T16:02:10.640000",
+      "token0TvlUsd": 114379.50013839849,
+      "token1TvlUsd": 72658.14625336387,
+      "totalSupply": "3739462376146615533402"
     },
     {
       "chainId": 42161,
