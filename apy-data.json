@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-02T13:10:08.752Z",
+  "timestamp": "2025-05-02T14:03:27.996Z",
   "data": [
     {
       "chainId": 42161,
@@ -9,7 +9,7 @@
       "feeApr": 0,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-05-02T13:09:42.018000",
+      "lastUpdated": "2025-05-02T14:03:20.279000",
       "token0TvlUsd": 234480.880623409,
       "token1TvlUsd": 16785.053603124106,
       "totalSupply": "245809665814"
@@ -22,7 +22,7 @@
       "feeApr": 0,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-05-02T13:09:42.018000",
+      "lastUpdated": "2025-05-02T14:03:20.279000",
       "token0TvlUsd": 29632.75462025428,
       "token1TvlUsd": 700145.1335630566,
       "totalSupply": "144152157967862000185"
@@ -35,7 +35,7 @@
       "feeApr": 0,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-05-02T13:09:42.018000",
+      "lastUpdated": "2025-05-02T14:03:20.278000",
       "token0TvlUsd": 249.5622920945259,
       "token1TvlUsd": 593.5656381947772,
       "totalSupply": "3822911275516257435438"
@@ -73,7 +73,7 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-05-02T13:09:42.019000",
+      "lastUpdated": "2025-05-02T14:03:20.280000",
       "token0TvlUsd": 13085.258681696954,
       "token1TvlUsd": 16865.480910492843,
       "totalSupply": "2766245396377450531051"
@@ -86,7 +86,7 @@
       "feeApr": 0,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-05-02T13:09:42.019000",
+      "lastUpdated": "2025-05-02T14:03:20.280000",
       "token0TvlUsd": 261.38818650770565,
       "token1TvlUsd": 5104.3694242018,
       "totalSupply": "260702322182731183716"
@@ -124,7 +124,7 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-05-02T13:09:42.017000",
+      "lastUpdated": "2025-05-02T14:03:20.278000",
       "token0TvlUsd": 2282.603781799954,
       "token1TvlUsd": 174.1153532157532,
       "totalSupply": "7395423310061475350"
