@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-03T02:30:36.777Z",
+  "timestamp": "2025-05-03T03:18:03.932Z",
   "data": [
     {
       "chainId": 42161,
@@ -9,7 +9,7 @@
       "feeApr": 0,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-05-03T02:29:50.158000",
+      "lastUpdated": "2025-05-03T03:14:00.985000+00:00",
       "token0TvlUsd": 234994.75787010544,
       "token1TvlUsd": 16229.900679438491,
       "totalSupply": "245809665814"
@@ -22,7 +22,7 @@
       "feeApr": 0,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-05-03T02:29:50.158000",
+      "lastUpdated": "2025-05-03T03:14:00.985000+00:00",
       "token0TvlUsd": 14027.842216199799,
       "token1TvlUsd": 729175.6505935631,
       "totalSupply": "144152157967862000185"
@@ -35,7 +35,7 @@
       "feeApr": 0,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-05-03T02:29:50.158000",
+      "lastUpdated": "2025-05-03T03:14:00.985000+00:00",
       "token0TvlUsd": 276.6046132453813,
       "token1TvlUsd": 650.166956980076,
       "totalSupply": "3822911275516257435438"
@@ -73,7 +73,7 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-05-03T02:29:50.159000",
+      "lastUpdated": "2025-05-03T03:14:00.986000+00:00",
       "token0TvlUsd": 6938.316501645492,
       "token1TvlUsd": 22839.179972340884,
       "totalSupply": "2766245396377450531051"
@@ -86,7 +86,7 @@
       "feeApr": 0,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-05-03T02:29:50.159000",
+      "lastUpdated": "2025-05-03T03:14:00.986000+00:00",
       "token0TvlUsd": 2304.7154073315382,
       "token1TvlUsd": 3217.8817922729445,
       "totalSupply": "260702322182731183716"
@@ -124,7 +124,7 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-05-03T02:29:50.158000",
+      "lastUpdated": "2025-05-03T03:14:00.985000+00:00",
       "token0TvlUsd": 2332.6750635367825,
       "token1TvlUsd": 10.328234086870907,
       "totalSupply": "7395423310061475350"
