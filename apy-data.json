@@ -1,60 +1,60 @@
 {
-  "timestamp": "2025-06-18T06:05:09.050Z",
+  "timestamp": "2025-06-18T07:04:03.429Z",
   "data": [
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x547a116a2622876ce1c8d19d41c683c8f7bec5c0",
-      "tvlUSD": "375365.2780044888",
-      "feeApr": 0.004892644969301843,
-      "rewardApr": 0.11274881894564545,
+      "tvlUSD": "375381.11621455254",
+      "feeApr": 0.004892680455672769,
+      "rewardApr": 0.11202087502755415,
       "rewardsDetails": [
         {
           "rewarderAddress": "0xa3027c6c306f4921a471656c0e29d59aafa0b4ee734b141d566db000d331a05b",
           "rewardToken": "0xf5a27e55c748bcddbfea5477cb9ae924f0f7fd2e",
           "rewardTokenDecimals": 18,
           "rewardTokenSymbol": "TST",
-          "rewardPerSecond": "2.992491272400456e+17",
-          "apr": 0.11274881894564545
+          "rewardPerSecond": "2.9924564331967546e+17",
+          "apr": 0.11202087502755415
         }
       ],
-      "lastUpdated": "2025-06-18T06:03:31.280000",
-      "token0TvlUsd": 278668.49330892554,
-      "token1TvlUsd": 96696.78469556326,
+      "lastUpdated": "2025-06-18T07:02:17.554000+00:00",
+      "token0TvlUsd": 278686.154207708,
+      "token1TvlUsd": 96694.96200684452,
       "totalSupply": "363257000611"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x52ee1ffba696c5e9b0bc177a9f8a3098420ea691",
-      "tvlUSD": "714524.5654947337",
-      "feeApr": 0.033563877164070284,
+      "tvlUSD": "710943.4328754105",
+      "feeApr": 0.03398421825889186,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-06-18T06:03:31.280000",
-      "token0TvlUsd": 8377.963180978935,
-      "token1TvlUsd": 706146.6023137548,
+      "lastUpdated": "2025-06-18T07:02:17.554000+00:00",
+      "token0TvlUsd": 8335.973585827482,
+      "token1TvlUsd": 702607.459289583,
       "totalSupply": "112210526876786112663"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x330dfc5bc1a63a1dcf1cd5bc9ad3d5e5e61bcb6c",
-      "tvlUSD": "1056.3426632722922",
-      "feeApr": 1.217451466590199,
+      "tvlUSD": "1045.647098370667",
+      "feeApr": 1.2526056164442316,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-06-18T06:03:31.280000",
-      "token0TvlUsd": 116.67943299761006,
-      "token1TvlUsd": 939.6632302746821,
+      "lastUpdated": "2025-06-18T07:02:17.554000+00:00",
+      "token0TvlUsd": 47.716835453040545,
+      "token1TvlUsd": 997.9302629176265,
       "totalSupply": "4828470404639779270475"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0xfa392dbefd2d5ec891ef5aeb87397a89843a8260",
-      "tvlUSD": "41026.901211659635",
-      "feeApr": 4.651223074518779,
+      "tvlUSD": "40838.170543915956",
+      "feeApr": 4.656635597722062,
       "rewardApr": 0,
       "rewardsDetails": [
         {
@@ -82,30 +82,30 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-06-18T06:03:31.282000",
-      "token0TvlUsd": 9141.934496706128,
-      "token1TvlUsd": 31884.96671495351,
+      "lastUpdated": "2025-06-18T07:02:17.555000+00:00",
+      "token0TvlUsd": 9099.921777990996,
+      "token1TvlUsd": 31738.24876592496,
       "totalSupply": "3597013169040926578193"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0xf08bdbc590c59cb7b27a8d224e419ef058952b5f",
-      "tvlUSD": "6830.67256304251",
-      "feeApr": 0.37737372195061186,
+      "tvlUSD": "6793.737078074599",
+      "feeApr": 0.37840820169270234,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-06-18T06:03:31.282000",
-      "token0TvlUsd": 1486.2365804139583,
-      "token1TvlUsd": 5344.435982628552,
+      "lastUpdated": "2025-06-18T07:02:17.555000+00:00",
+      "token0TvlUsd": 1478.5778162927104,
+      "token1TvlUsd": 5315.159261781888,
       "totalSupply": "292526293818914781539"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x2bcbdd577616357464cfe307bc67f9e820a66e80",
-      "tvlUSD": "2151.8025416301584",
-      "feeApr": 0.1895250455116517,
+      "tvlUSD": "2140.327323457991",
+      "feeApr": 0.19119490479422957,
       "rewardApr": 0,
       "rewardsDetails": [
         {
@@ -133,9 +133,9 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-06-18T06:03:31.280000",
-      "token0TvlUsd": 2121.7365040377654,
-      "token1TvlUsd": 30.06603759239306,
+      "lastUpdated": "2025-06-18T07:02:17.554000+00:00",
+      "token0TvlUsd": 2103.4552054256474,
+      "token1TvlUsd": 36.87211803234368,
       "totalSupply": "7395423310061475350"
     }
   ]
