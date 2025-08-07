@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-08-07T00:17:30.748Z",
+  "timestamp": "2025-08-07T01:32:26.196Z",
   "data": [
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x547a116a2622876ce1c8d19d41c683c8f7bec5c0",
-      "tvlUSD": "311786.9246371103",
+      "tvlUSD": "311787.0130588403",
       "feeApr": 0.0001297168424088871,
       "rewardApr": 0.04214448069403263,
       "rewardsDetails": [
@@ -18,42 +18,42 @@
           "apr": 0.04214448069403263
         }
       ],
-      "lastUpdated": "2025-08-07T00:15:20.292000",
-      "token0TvlUsd": 283329.4636810824,
-      "token1TvlUsd": 28457.460956027906,
+      "lastUpdated": "2025-08-07T01:29:38.353000",
+      "token0TvlUsd": 283800.71342817706,
+      "token1TvlUsd": 27986.29963066324,
       "totalSupply": "302374433641"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x52ee1ffba696c5e9b0bc177a9f8a3098420ea691",
-      "tvlUSD": "726788.5875783368",
+      "tvlUSD": "726883.1627675602",
       "feeApr": 0.017877135849614263,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-08-07T00:15:20.292000",
-      "token0TvlUsd": 690697.9924775498,
-      "token1TvlUsd": 36090.595100787,
+      "lastUpdated": "2025-08-07T01:29:38.353000",
+      "token0TvlUsd": 721513.854010469,
+      "token1TvlUsd": 5369.308757091174,
       "totalSupply": "109412368861320756040"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x330dfc5bc1a63a1dcf1cd5bc9ad3d5e5e61bcb6c",
-      "tvlUSD": "1114.269034353833",
+      "tvlUSD": "1111.5842838782228",
       "feeApr": 1.3935635495573073,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-08-07T00:15:20.291000",
-      "token0TvlUsd": 64.24783836645514,
-      "token1TvlUsd": 1050.0211959873777,
+      "lastUpdated": "2025-08-07T01:29:38.353000",
+      "token0TvlUsd": 251.69229084194578,
+      "token1TvlUsd": 859.891993036277,
       "totalSupply": "4432154182743125711323"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0xfa392dbefd2d5ec891ef5aeb87397a89843a8260",
-      "tvlUSD": "44901.370650815334",
+      "tvlUSD": "44899.902038885375",
       "feeApr": 0.6253142144244006,
       "rewardApr": 0,
       "rewardsDetails": [
@@ -82,29 +82,29 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-08-07T00:15:20.293000",
-      "token0TvlUsd": 19423.053568605,
-      "token1TvlUsd": 25478.317082210335,
+      "lastUpdated": "2025-08-07T01:29:38.354000",
+      "token0TvlUsd": 19859.240462093374,
+      "token1TvlUsd": 25040.661576792,
       "totalSupply": "2910182087284465881948"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0xf08bdbc590c59cb7b27a8d224e419ef058952b5f",
-      "tvlUSD": "10389.05028418567",
+      "tvlUSD": "10321.991307361925",
       "feeApr": 1.2504690982386015,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-08-07T00:15:20.292000",
-      "token0TvlUsd": 4255.790150230899,
-      "token1TvlUsd": 6133.260133954772,
-      "totalSupply": "344399810456378645239"
+      "lastUpdated": "2025-08-07T01:29:38.354000",
+      "token0TvlUsd": 5782.8638281471,
+      "token1TvlUsd": 4539.127479214824,
+      "totalSupply": "340728187884743434675"
     },
     {
       "chainId": 42161,
       "protocol": "uniswapv3",
       "address": "0x2bcbdd577616357464cfe307bc67f9e820a66e80",
-      "tvlUSD": "2146.042392366123",
+      "tvlUSD": "2143.7048567312263",
       "feeApr": 0.7179942861707858,
       "rewardApr": 0,
       "rewardsDetails": [
@@ -133,9 +133,9 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-08-07T00:15:20.291000",
-      "token0TvlUsd": 2089.290692543487,
-      "token1TvlUsd": 56.751699822636056,
+      "lastUpdated": "2025-08-07T01:29:38.353000",
+      "token0TvlUsd": 1971.8860917817744,
+      "token1TvlUsd": 171.81876494945186,
       "totalSupply": "7395423310061475350"
     }
   ]
