@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-15T03:28:32.535Z",
+  "timestamp": "2025-08-15T04:10:29.445Z",
   "data": [
     {
       "chainId": 42161,
@@ -9,7 +9,7 @@
       "feeApr": 0.0001297168424088871,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-08-15T03:21:51.109000",
+      "lastUpdated": "2025-08-15T04:08:34.484000",
       "token0TvlUsd": 289720.06142746087,
       "token1TvlUsd": 22286.951198071998,
       "totalSupply": "302576518076"
@@ -22,7 +22,7 @@
       "feeApr": 0.017877135849614263,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-08-15T03:21:51.109000",
+      "lastUpdated": "2025-08-15T04:08:34.484000",
       "token0TvlUsd": 710609.2203364178,
       "token1TvlUsd": 15965.396381914194,
       "totalSupply": "109435693661963381737"
@@ -35,7 +35,7 @@
       "feeApr": 1.3935635495573073,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-08-15T03:21:51.079000",
+      "lastUpdated": "2025-08-15T04:08:34.458000",
       "token0TvlUsd": 148.8711270588131,
       "token1TvlUsd": 905.7503951114223,
       "totalSupply": "4432154182743125711323"
@@ -9673,7 +9673,7 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-08-15T03:21:51.374000",
+      "lastUpdated": "2025-08-15T04:08:34.687000",
       "token0TvlUsd": 16443.929707167677,
       "token1TvlUsd": 26896.44298532395,
       "totalSupply": "2910182087284465881948"
@@ -9686,7 +9686,7 @@
       "feeApr": 1.2504690982386015,
       "rewardApr": 0,
       "rewardsDetails": [],
-      "lastUpdated": "2025-08-15T03:21:51.342000",
+      "lastUpdated": "2025-08-15T04:08:34.665000",
       "token0TvlUsd": 4514.51932750363,
       "token1TvlUsd": 5378.0737998271625,
       "totalSupply": "338966751815097514825"
@@ -19324,7 +19324,7 @@
           "apr": 0
         }
       ],
-      "lastUpdated": "2025-08-15T03:21:51.070000",
+      "lastUpdated": "2025-08-15T04:08:34.452000",
       "token0TvlUsd": 2162.139492311985,
       "token1TvlUsd": 1.419193876159795,
       "totalSupply": "7395423310061475350"
