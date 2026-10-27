@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T17:20:47.695Z",
+  "timestamp": "2026-10-27T21:45:05.187Z",
   "data": [
     {
       "chainId": 42161,
@@ -22,8 +22,8 @@
       "feeApr": 0.016665968891710348,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.716000",
-      "token0TvlUsd": 4839.469147392034,
-      "token1TvlUsd": 6283.430408329623,
+      "token0TvlUsd": 4857.176856990536,
+      "token1TvlUsd": 6305.7323741010505,
       "totalSupply": "2688559050890396213",
       "rewardsDetails": []
     },
@@ -35,8 +35,8 @@
       "feeApr": 1.5152590023161694,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.487000",
-      "token0TvlUsd": 27.113601650237154,
-      "token1TvlUsd": 98.58195158916732,
+      "token0TvlUsd": 27.20983676014497,
+      "token1TvlUsd": 97.75147901496265,
       "totalSupply": "4432154182743125711323",
       "rewardsDetails": []
     },
@@ -48,8 +48,8 @@
       "feeApr": 1.239833891906117,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:34.655000",
-      "token0TvlUsd": 12841.417846759388,
-      "token1TvlUsd": 10209.614848457328,
+      "token0TvlUsd": 12886.996271706274,
+      "token1TvlUsd": 10268.134505515665,
       "totalSupply": "2683586661884415831509",
       "rewardsDetails": []
     },
@@ -61,8 +61,8 @@
       "feeApr": 0.47345985365951915,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:34.626000",
-      "token0TvlUsd": 975.9444649573932,
-      "token1TvlUsd": 935.5841949337741,
+      "token0TvlUsd": 979.4084135711059,
+      "token1TvlUsd": 950.8043326107388,
       "totalSupply": "76562182502833292876",
       "rewardsDetails": []
     },
@@ -74,8 +74,8 @@
       "feeApr": 0.6843862757629726,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.486000",
-      "token0TvlUsd": 0.013666598848885993,
-      "token1TvlUsd": 0.2794245081940736,
+      "token0TvlUsd": 0.013649257426740842,
+      "token1TvlUsd": 0.2804162778823606,
       "totalSupply": "5231652462984837366",
       "rewardsDetails": []
     }
