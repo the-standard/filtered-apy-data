@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T06:35:18.340Z",
+  "timestamp": "2026-10-28T13:45:58.234Z",
   "data": [
     {
       "chainId": 42161,
@@ -22,8 +22,8 @@
       "feeApr": 0.016665968891710348,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.716000",
-      "token0TvlUsd": 4863.79691202287,
-      "token1TvlUsd": 6298.684288924452,
+      "token0TvlUsd": 4835.609738641311,
+      "token1TvlUsd": 6256.5240315342435,
       "totalSupply": "2688559050890396213",
       "rewardsDetails": []
     },
@@ -35,8 +35,8 @@
       "feeApr": 1.5152590023161694,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.487000",
-      "token0TvlUsd": 27.179423600221703,
-      "token1TvlUsd": 98.7989962088553,
+      "token0TvlUsd": 26.99749806750088,
+      "token1TvlUsd": 96.70378777841661,
       "totalSupply": "4432154182743125711323",
       "rewardsDetails": []
     },
@@ -48,8 +48,8 @@
       "feeApr": 1.239833891906117,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:34.655000",
-      "token0TvlUsd": 12872.592132423966,
-      "token1TvlUsd": 10471.733067762341,
+      "token0TvlUsd": 12786.429408164797,
+      "token1TvlUsd": 10371.93945344822,
       "totalSupply": "2683586661884415831509",
       "rewardsDetails": []
     },
@@ -61,8 +61,8 @@
       "feeApr": 0.47345985365951915,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:34.626000",
-      "token0TvlUsd": 978.3137026775896,
-      "token1TvlUsd": 995.3232333577722,
+      "token0TvlUsd": 971.7653577183445,
+      "token1TvlUsd": 976.8038291215175,
       "totalSupply": "76562182502833292876",
       "rewardsDetails": []
     },
@@ -74,8 +74,8 @@
       "feeApr": 0.6843862757629726,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.486000",
-      "token0TvlUsd": 0.013705462396830497,
-      "token1TvlUsd": 0.28010284913306305,
+      "token0TvlUsd": 0.013631532291880414,
+      "token1TvlUsd": 0.2782279800852612,
       "totalSupply": "5231652462984837366",
       "rewardsDetails": []
     }
