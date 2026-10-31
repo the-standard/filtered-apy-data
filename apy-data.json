@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T07:55:57.858Z",
+  "timestamp": "2026-10-31T14:15:58.769Z",
   "data": [
     {
       "chainId": 42161,
@@ -22,8 +22,8 @@
       "feeApr": 0.016665968891710348,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.716000",
-      "token0TvlUsd": 4649.9586122295705,
-      "token1TvlUsd": 6012.29515165913,
+      "token0TvlUsd": 4661.6629557705,
+      "token1TvlUsd": 6020.82650228347,
       "totalSupply": "2688559050890396213",
       "rewardsDetails": []
     },
@@ -35,8 +35,8 @@
       "feeApr": 1.5152590023161694,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.487000",
-      "token0TvlUsd": 25.94362715144218,
-      "token1TvlUsd": 94.74106650906299,
+      "token0TvlUsd": 25.980440743275743,
+      "token1TvlUsd": 94.59727804760554,
       "totalSupply": "4432154182743125711323",
       "rewardsDetails": []
     },
@@ -48,8 +48,8 @@
       "feeApr": 1.239833891906117,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:34.655000",
-      "token0TvlUsd": 12287.299968843758,
-      "token1TvlUsd": 10218.333861319008,
+      "token0TvlUsd": 12304.7354509045,
+      "token1TvlUsd": 10310.429773192536,
       "totalSupply": "2683586661884415831509",
       "rewardsDetails": []
     },
@@ -61,8 +61,8 @@
       "feeApr": 0.47345985365951915,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:34.626000",
-      "token0TvlUsd": 933.8316482622984,
-      "token1TvlUsd": 886.6109681128338,
+      "token0TvlUsd": 935.1567404300094,
+      "token1TvlUsd": 909.3945600608413,
       "totalSupply": "76562182502833292876",
       "rewardsDetails": []
     },
@@ -74,8 +74,8 @@
       "feeApr": 0.6843862757629726,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.486000",
-      "token0TvlUsd": 0.01306595253045233,
-      "token1TvlUsd": 0.26736710788471507,
+      "token0TvlUsd": 0.013104022958285343,
+      "token1TvlUsd": 0.2677464975329679,
       "totalSupply": "5231652462984837366",
       "rewardsDetails": []
     }
