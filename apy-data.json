@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T09:47:08.053Z",
+  "timestamp": "2026-11-19T18:47:48.510Z",
   "data": [
     {
       "chainId": 42161,
@@ -22,8 +22,8 @@
       "feeApr": 0.016665968891710348,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.716000",
-      "token0TvlUsd": 3836.342190411935,
-      "token1TvlUsd": 4841.354948963035,
+      "token0TvlUsd": 3804.190800765604,
+      "token1TvlUsd": 4785.529774964756,
       "totalSupply": "2688559050890396213",
       "rewardsDetails": []
     },
@@ -35,8 +35,8 @@
       "feeApr": 1.5152590023161694,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.487000",
-      "token0TvlUsd": 20.890908469293233,
-      "token1TvlUsd": 74.70462541688576,
+      "token0TvlUsd": 20.650017517777645,
+      "token1TvlUsd": 72.96681334414149,
       "totalSupply": "4432154182743125711323",
       "rewardsDetails": []
     },
@@ -48,8 +48,8 @@
       "feeApr": 1.239833891906117,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:34.655000",
-      "token0TvlUsd": 9894.254858253127,
-      "token1TvlUsd": 8192.6097897476,
+      "token0TvlUsd": 9780.165206726211,
+      "token1TvlUsd": 8092.382303235366,
       "totalSupply": "2683586661884415831509",
       "rewardsDetails": []
     },
@@ -61,8 +61,8 @@
       "feeApr": 0.47345985365951915,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:34.626000",
-      "token0TvlUsd": 751.9608332211345,
-      "token1TvlUsd": 819.5387354213963,
+      "token0TvlUsd": 743.2900489475187,
+      "token1TvlUsd": 805.6281293070165,
       "totalSupply": "76562182502833292876",
       "rewardsDetails": []
     },
@@ -74,8 +74,8 @@
       "feeApr": 0.6843862757629726,
       "rewardApr": 0,
       "lastUpdated": "2026-10-19T23:31:33.486000",
-      "token0TvlUsd": 0.01226159057113806,
-      "token1TvlUsd": 0.21529533036820325,
+      "token0TvlUsd": 0.012113613186769567,
+      "token1TvlUsd": 0.21281278170041837,
       "totalSupply": "5231652462984837366",
       "rewardsDetails": []
     }
